@@ -1,0 +1,13 @@
+int counter = 0;
+
+while (counter < 42){
+   // Do stuff
+   count++;
+}
+
+String stopWord = ""
+
+while (!stopWord.equals("Stop")){
+   // do stuff
+   change stopWord so that it can be "Stop";
+}
